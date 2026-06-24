@@ -1,0 +1,1 @@
+// GenType, TaskStatus, GenerationTask
