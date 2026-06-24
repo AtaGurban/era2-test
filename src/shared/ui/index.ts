@@ -1,1 +1,1 @@
-// Shared UI примитивы (Button, Chip, IconButton…)
+export * from './container/Container';
